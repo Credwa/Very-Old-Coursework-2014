@@ -1,0 +1,16 @@
+Employee Name : Employee Name : Craig
+
+Employe Salary : $4678
+
+Employee Name : Employee Name : Edward
+
+Employe Salary : $3101
+
+Employee Name : Employee Name : NuNu
+
+Employe Salary : $8794
+
+Employee Name : Employee Name : Gates
+
+Employe Salary : $10000
+

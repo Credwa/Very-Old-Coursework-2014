@@ -1,0 +1,49 @@
+Employee Name : Gates
+
+10000
+
+
+Employee Name : NuNu
+
+8794
+
+
+Employee Name : Craig
+
+4678
+
+
+Employee Name : Edward
+
+3101
+
+
+Employee Name : Nyan
+
+1500
+
+
+Employee Name : Kate
+
+987
+
+
+Employee Name : Rawr
+
+700
+
+
+Employee Name : Kells
+
+454
+
+
+Employee Name :Random
+
+2
+
+Employee Name : Esarr
+
+1
+
+

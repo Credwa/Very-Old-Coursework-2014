@@ -1,0 +1,29 @@
+Employee Name : Nyan
+
+Employe Salary : $1500
+
+
+Employee Name : Kate
+
+Employe Salary : $987
+
+
+Employee Name : Esarr
+
+Employe Salary : $1
+
+
+Employee Name : Kells
+
+Employe Salary : $454
+
+
+Employee Name : Rawr
+
+Employe Salary : $700
+
+
+Employee Name :Random
+
+Employe Salary : $2
+

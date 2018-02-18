@@ -1,0 +1,59 @@
+
+
+
+
+.head{font-family:"Algerian",Times;  
+   color:#0066CC; 
+   
+       font-size:500%}
+
+
+
+.logo ul ul {display: none;}
+
+.logo ul li:hover > ul {display: block;}
+
+.logo ul {
+padding: 0px 0px;
+border-radius: 100px;  
+list-style-type: none;
+position: relative;
+display: block;
+background-color: #0c5aa;}
+ 	
+.logo ul li {
+float : left;
+
+}
+
+.logo ul li:hover {background: #E0FFFF;
+border-radius: 100px;position : relative; }
+
+body{background:#000;
+font-family:Arial,Helvetica,sans-serif;
+font-weight:normal;
+font-style:normal;
+font-size:16px;
+line-height:1.6em;
+color:blue;
+position:relative;
+left:100px;
+top:20px;
+-webkit-font-smoothing:antialiased;
+background-position:center center;
+background-repeat: no-repeat; background-attachment: fixed;}
+
+
+ 
+body{
+background-image: url(images/heb21.jpg);
+background-size:1300px 900px;
+background-position:left;
+background-repeat: no-repeat;
+ background-attachment: fixed;
+}
+
+
+	
+
+
